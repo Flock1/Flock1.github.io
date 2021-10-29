@@ -2,6 +2,14 @@
 
 Sarvagya is a graduate student at University of Massachusetts in Boston, focusing on machine learning. His specific interessts include reinforcement learning, information theory, model compression, theoretical machine learning. 
 
+### Specific Projects:
+
+1. Object Detection and collision avoidence for self driving cars:
+
+- A project I worked on at the Indian Institute of Science in Bangalore, India. Under the supervision of Prof. Chiranjib Bhattacharyya, we collected and curated the data by driving around the IISc campus and trained models on them. 
+
+2. 
+
 You can use the [editor on GitHub](https://github.com/Flock1/Flock1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
