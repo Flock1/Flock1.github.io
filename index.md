@@ -12,6 +12,10 @@ Sarvagya is a graduate student at University of Massachusetts in Boston, focusin
 
 - This was a code I wrote during my brief time at the Tata Institute of Fundemental Research in Mumbai. I worked on a small RL model to make any quantum state go to equal superpisition. 
 
+3. Model Compression:
+
+- I worked on a small model compression technique where I was able to reduce an MNIST classifier by almost 97% and achived accuracy of 85%. Currently working on bigger models like VGG and ResNet.
+
 
 ### Markdown
 
