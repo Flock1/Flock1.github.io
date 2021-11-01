@@ -8,7 +8,9 @@ Sarvagya is a graduate student at University of Massachusetts in Boston, focusin
 
 - A project I worked on at the Indian Institute of Science in Bangalore, India. Under the supervision of Prof. Chiranjib Bhattacharyya, we collected and curated the data by driving around the IISc campus and trained models on them. 
 
-2. 
+2. Equal superposition using reinforcement learning [link](https://bitbucket.org/Sarvagya8967/qc_code/src/master/):
+
+- This was a code I wrote during my brief time at the Tata Institute of Fundemental Research in Mumbai. I worked on a small RL model to make any quantum state go to equal superpisition. 
 
 You can use the [editor on GitHub](https://github.com/Flock1/Flock1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
