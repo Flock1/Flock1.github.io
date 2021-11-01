@@ -12,9 +12,6 @@ Sarvagya is a graduate student at University of Massachusetts in Boston, focusin
 
 - This was a code I wrote during my brief time at the Tata Institute of Fundemental Research in Mumbai. I worked on a small RL model to make any quantum state go to equal superpisition. 
 
-You can use the [editor on GitHub](https://github.com/Flock1/Flock1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
