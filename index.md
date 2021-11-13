@@ -20,8 +20,6 @@ Sarvagya is a graduate student at University of Massachusetts in Boston, focusin
 
 Other interests include playing musical intruments, jogging around Boston, always interested in trying new cuisines and yoga.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 
 ### Support or Contact
 
