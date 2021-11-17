@@ -5,11 +5,11 @@ Sarvagya is a graduate student at University of Massachusetts in Boston, focusin
 
 ### Specific Projects:
 
-1. Object Detection and collision avoidence for self driving cars:
+A) Object Detection and collision avoidence for self driving cars:
 
 - A project I worked on at the Indian Institute of Science in Bangalore, India. Under the supervision of Prof. Chiranjib Bhattacharyya, we collected and curated the data by driving around the IISc campus and trained models on them. 
 
-2. Equal superposition using reinforcement learning [(link)](https://bitbucket.org/Sarvagya8967/qc_code/src/master/):
+B) Equal superposition using reinforcement learning [(link)](https://bitbucket.org/Sarvagya8967/qc_code/src/master/):
 
 - This was a code I wrote during my brief time at the Tata Institute of Fundemental Research in Mumbai. I worked on a small RL model to make any quantum state go to equal superpisition. 
 
@@ -23,4 +23,9 @@ Other interests include playing musical intruments, jogging around Boston, alway
 
 ### Contact
 
-I can be reached via [email personal](sg3483@nyu.edu) or [email college](sarvagya.gupta001@umb.edu) and maybe we can chat about ML stuff. 
+I can be reached via sarvagya.gupta@gmail.com or sarvagya.gupta001@umb.edu and maybe we can chat about ML stuff. 
+
+My other profiles:
+
+[GitHub](https://github.com/Flock1)
+[BitBucket](https://bitbucket.org/Sarvagya8967/)
