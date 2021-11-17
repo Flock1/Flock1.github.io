@@ -23,7 +23,7 @@ Other interests include playing musical intruments, jogging around Boston, alway
 
 ### Contact
 
-I can be reached via sarvagya.gupta@gmail.com or sarvagya.gupta001@umb.edu and maybe we can chat about ML stuff. 
+I can be reached via *sarvagya.gupta@gmail.com* or *sarvagya.gupta001@umb.edu* and maybe we can chat about ML stuff. 
 
 My other profiles:
 
