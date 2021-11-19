@@ -29,3 +29,4 @@ My other profiles:
 
 [GitHub](https://github.com/Flock1)
 [BitBucket](https://bitbucket.org/Sarvagya8967/)
+[LinkedIn](https://www.linkedin.com/in/sarvagya-gupta/)
