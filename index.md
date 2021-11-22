@@ -13,6 +13,10 @@ B) Equal superposition using reinforcement learning [(link)](https://bitbucket.o
 
 - This was a code I wrote during my brief time at the Tata Institute of Fundemental Research in Mumbai. I worked on a small RL model to make any quantum state go to equal superpisition. 
 
+C) Model Compression:
+
+- Personal project where I worked on a model compression technique. I compresed a model trained on MNIST dataset by 97% (from around 39000 parameters to 380) with classification accuracy of 85%. Work still in progress. 
+
 
 
 
