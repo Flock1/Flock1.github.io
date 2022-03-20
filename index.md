@@ -1,4 +1,4 @@
-## About me [(CV)](https://github.com/Flock1/Flock1.github.io/blob/main/Sarvagya_Gupta_CV.pdf)
+## About me [(CV)](https://github.com/Flock1/Flock1.github.io/blob/main/Sarvagya_Gupta_CV.pdf) [(Resume)](https://github.com/Flock1/Flock1.github.io/blob/main/Gupta_Sarvagya_Resume.pdf)
 
 
 Sarvagya is a graduate student at University of Massachusetts in Boston, focusing on machine learning. His specific interessts include reinforcement learning, information theory, model compression, theoretical machine learning. 
