@@ -15,7 +15,7 @@ B) Equal superposition using reinforcement learning [(link)](https://bitbucket.o
 
 C) Model Compression:
 
-- Personal project where I worked on a model compression technique. I compresed a model trained on MNIST dataset by 99% (from around 39000 parameters to 380) with classification accuracy of 85%. Work still in progress. 
+- Personal project where I worked on a model compression technique. I compresed a model trained on MNIST dataset by 99% (from around 39000 parameters to 380) with classification accuracy of 85%. Work still in progress [(outputs)](https://github.com/Flock1/Flock1.github.io/blob/main/Screenshot%202022-10-16%20at%2010.19.48%20PM.png). 
 
 
 
