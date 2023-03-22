@@ -17,7 +17,9 @@ C) Model Compression:
 
 - Personal project where I worked on a model compression technique. I compresed a model trained on MNIST dataset by 99% (from around 60,000 parameters to 380) with classification accuracy of 85%. Work still in progress [(outputs)](https://github.com/Flock1/Flock1.github.io/blob/main/Screenshot%202022-10-16%20at%2010.19.48%20PM.png). 
 
+### Poster Presentation:
 
+A) Time - Frequency Visual Complexity [(Poster)](https://drive.google.com/file/d/1tVAl4ynAbWpxaTcSwmOWClyK7tTInrpU/view?usp=share_link)
 
 
 ### Other Interests
