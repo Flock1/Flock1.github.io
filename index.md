@@ -5,7 +5,7 @@ Sarvagya is a graduate student at University of Massachusetts in Boston, focusin
 
 ### Specific Projects:
 
-A) Internship at Boston Children's Hospital, Harvard Medical School:
+A) Internship at Boston Children's Hospital, Harvard Medical School [(Abstract)](https://github.com/Flock1/Flock1.github.io/blob/main/Abstract.pdf):
 - Participated in a pioneering research project aimed at utilizing deep learning methods to analyze interictal Intracranial EEG (iEEG) for improved surgical planning in drug-resistant epilepsy (DRE) patients.
 - Conducted data curation of iEEG signals of patients with DRE, including the extraction of relevant features for analysis.
 - Employed unsupervised machine learning techniques to analyze iEEG signals and differentiate between signals originating from resected/non-resected parts of the brain.
